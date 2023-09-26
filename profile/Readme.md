@@ -12,6 +12,44 @@
   <img src="https://komarev.com/ghpvc/?username=Clinical-Biomechanics-Research-Unit&style=flat-square&color=blue" alt=""/>
 </div>
 
+[![GitHub stars](https://img.shields.io/github/stars/your-org-name/your-repo-name)](https://github.com/your-org-name)
+[![GitHub forks](https://img.shields.io/github/forks/your-org-name/your-repo-name)](https://github.com/your-org-name)
+
+Welcome to the Clinical Biomechanic Research Unit GitHub organization! We are passionate about [briefly describe your organization's mission or focus].
+
+## About Us
+
+- **Mission**: [Provide a concise mission statement or description of your organization's purpose and goals.]
+
+- **Website**: [Link to your organization's website, if applicable.]
+
+- **Contact**: [Provide a contact email or other means of reaching out to your organization.]
+
+## Our Projects
+
+Here are some of the exciting projects we are working on:
+
+### [Project 1 Name]
+
+- **Description**: [A brief description of what this project is about.]
+
+- **GitHub Repository**: [Link to the GitHub repository.]
+
+- **Demo**: [Link to a live demo or project showcase, if applicable.]
+
+## Join Us
+
+If you share our passion and want to collaborate with us, feel free to [join our organization](https://github.com/your-org-name). We're always looking for talented individuals to help us achieve our mission.
+
+
+---
+
+**Clinical Biomechanic Research Unit** &copy; 2023 - All rights reserved.
+
+<!---
+
+
+
 
 Welcome to the Github page of the CBRU
 <!---## 📊 GitHub Stats:
