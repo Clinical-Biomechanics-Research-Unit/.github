@@ -15,6 +15,5 @@
 
 Welcome to the Github page of the CBRU
 <!---## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Clinical-Biomechanics-Research-Unit&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![GitHub top language](https://img.shields.io/github/languages/top/Clinical-Biomechanics-Research-Unit/your-repo-name)
 
-[![](https://visitcount.itsvg.in/api?id=Clinical-Biomechanics-Research-Unit&label=&color=5&icon=0&pretty=true)](https://visitcount.itsvg.in)
