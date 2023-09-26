@@ -12,8 +12,8 @@
   <img src="https://komarev.com/ghpvc/?username=Clinical-Biomechanics-Research-Unit&style=flat-square&color=blue" alt=""/>
 </div>
 
-[![GitHub stars](https://img.shields.io/github/stars/your-org-name/your-repo-name)](https://github.com/your-org-name)
-[![GitHub forks](https://img.shields.io/github/forks/your-org-name/your-repo-name)](https://github.com/your-org-name)
+[![GitHub stars](https://img.shields.io/github/stars/Clinical-Biomechanics-Research-Unit)](https://github.com/Clinical-Biomechanics-Research-Unit)
+[![GitHub forks](https://img.shields.io/github/forks/Clinical-Biomechanics-Research-Unit)](https://github.com/Clinical-Biomechanics-Research-Unit)
 
 Welcome to the Clinical Biomechanic Research Unit GitHub organization! We are passionate about [briefly describe your organization's mission or focus].
 
