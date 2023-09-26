@@ -3,8 +3,17 @@
   <img src="profile/media/TWITTER_PROFILE_ICON-removebg-preview.png" width="100"/>
 </div>
 
-Welcome to the Github page of the CBRU
 
+<div id="badges" align="center">
+  <a href="https://twitter.com/CBRUottawa">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <br />
+  <img src="https://komarev.com/ghpvc/?username=Clinical-Biomechanics-Research-Unit&style=flat-square&color=blue" alt=""/>
+</div>
+
+
+Welcome to the Github page of the CBRU
 <!---## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Clinical-Biomechanics-Research-Unit&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
