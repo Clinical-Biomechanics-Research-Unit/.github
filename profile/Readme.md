@@ -15,5 +15,5 @@
 
 Welcome to the Github page of the CBRU
 <!---## 📊 GitHub Stats:
-![GitHub top language](https://img.shields.io/github/languages/top/Clinical-Biomechanics-Research-Unit/your-repo-name)
+![GitHub top language](https://img.shields.io/github/languages/top/Clinical-Biomechanics-Research-Unit)
 
