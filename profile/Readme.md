@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h1>Clinical Biomechanic Research Unit</h1>
-  <img src="profile/media/TWITTER_PROFILE ICON.png" width="100"/>
+  <img src="profile/media/TWITTER_PROFILE_ICON-removebg-preview.png" width="100"/>
 </div>
 
 Welcome to the Github page of the CBRU
