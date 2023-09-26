@@ -19,11 +19,11 @@ Welcome to the Clinical Biomechanic Research Unit GitHub organization! We are pa
 
 ## About Us
 
-- **Mission**: [Provide a concise mission statement or description of your organization's purpose and goals.]
+- **Mission**: 1
 
-- **Website**: [Link to your organization's website, if applicable.]
+- **Website**:
 
-- **Contact**: [Provide a contact email or other means of reaching out to your organization.]
+- **Contact**: Professor Daniel Benoit
 
 ## Our Projects
 
@@ -31,11 +31,11 @@ Here are some of the exciting projects we are working on:
 
 ### [Project 1 Name]
 
-- **Description**: [A brief description of what this project is about.]
+- **Description**: 
 
 - **GitHub Repository**: [Link to the GitHub repository.]
 
-- **Demo**: [Link to a live demo or project showcase, if applicable.]
+- **Demo**: 
 
 ## Join Us
 
