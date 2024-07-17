@@ -19,11 +19,11 @@ Welcome to the Clinical Biomechanic Research Unit GitHub organization! We are pa
 
 ## About Us
 
-- **Mission**: 1
+- **Mission**: 
 
 - **Website**:
 
-- **Contact**: Professor Daniel Benoit
+- **Contact**: Professor Daniel Benoit and Professor Allison Clouthier
 
 ## Our Projects
 
