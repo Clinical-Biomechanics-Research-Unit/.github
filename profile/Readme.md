@@ -3,7 +3,9 @@
   <img src="profile/media/TWITTER_PROFILE_ICON-removebg-preview.png" width="100" alt="Profile Icon"/>
 </div>
 
-![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2FCBRUottawa)
+<div align="center">
+  <img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2FCBRUottawa" alt="Twitter URL Badge"/>
+</div>
 
 <div align="center">
   <a href="https://github.com/Clinical-Biomechanics-Research-Unit">
