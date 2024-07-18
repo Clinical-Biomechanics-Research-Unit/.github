@@ -6,6 +6,7 @@
 <div align="center">
   <img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2FCBRUottawa" alt="Twitter URL Badge"/>
 </div>
+![GitHub User's stars](https://img.shields.io/github/stars/:user)
 
 <div align="center">
   <a href="https://github.com/Clinical-Biomechanics-Research-Unit">
