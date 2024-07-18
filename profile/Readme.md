@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/github/stars/Clinical-Biomechanics-Research-Unit" alt="GitHub stars"/>
   </a>
   <a href="https://github.com/Clinical-Biomechanics-Research-Unit">
-    <img src="https://img.shields.io/github/forks/Clinical-Biomechanics-Research-Unit" alt="GitHub forks"/>
+    <img src="https://img.shields.io/github/forks/Clinical-Biomechanics-Research-Unit/.github" alt="GitHub forks"/>
   </a>
 </div>
 
