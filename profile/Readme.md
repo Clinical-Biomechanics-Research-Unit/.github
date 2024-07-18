@@ -5,7 +5,7 @@
 
 <div id="badges" align="center">
   <a href="https://twitter.com/CBRUottawa">
-    <img src="[https://img.shields.io/twitter/url"/](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2FCBRUottawa)>
+    <img src="![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2FCBRUottawa)>
   </a>
   <br />
   <img src="https://komarev.com/ghpvc/?username=Clinical-Biomechanics-Research-Unit&style=flat-square&color=blue" alt="Profile Views"/>
