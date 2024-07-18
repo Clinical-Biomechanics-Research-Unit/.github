@@ -1,11 +1,11 @@
 <div id="header" align="center">
   <h1>Clinical Biomechanic Research Unit</h1>
-  <img src="profile/media/TWITTER_PROFILE_ICON-removebg-preview.png" width="100"/>
+  <img src="profile/media/TWITTER_PROFILE_ICON-removebg-preview.png" width="100" alt="Profile Icon"/>
 </div>
 
 <div id="badges" align="center">
   <a href="https://twitter.com/CBRUottawa">
-    <img src="![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2FCBRUottawa)>
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <br />
   <img src="https://komarev.com/ghpvc/?username=Clinical-Biomechanics-Research-Unit&style=flat-square&color=blue" alt="Profile Views"/>
