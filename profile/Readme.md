@@ -6,7 +6,6 @@
 <div align="center">
   <img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2FCBRUottawa" alt="Twitter URL Badge"/>
 </div>
-![GitHub User's stars](https://img.shields.io/github/stars/:user)
 
 <div align="center">
   <a href="https://github.com/Clinical-Biomechanics-Research-Unit">
@@ -15,6 +14,7 @@
   <a href="https://github.com/Clinical-Biomechanics-Research-Unit">
     <img src="https://img.shields.io/github/forks/Clinical-Biomechanics-Research-Unit" alt="GitHub forks"/>
   </a>
+  <img src="https://img.shields.io/github/stars/:user" alt="User GitHub stars"/>
 </div>
 
 Welcome to the Clinical Biomechanic Research Unit GitHub organization! We are passionate about [briefly describe your organization's mission or focus].
