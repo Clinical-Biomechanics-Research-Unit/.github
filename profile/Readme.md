@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h1>Clinical Biomechanic Research Unit</h1>
-  <img src="profile/media/TWITTER_PROFILE ICON.png" width="100" alt="Profile Icon"/>
+  <img src="[profile/media/TWITTER_PROFILE ICON.png](https://raw.githubusercontent.com/Clinical-Biomechanics-Research-Unit/.github/main/profile/media/TWITTER_PROFILE%20ICON.png)" width="100" alt="Profile Icon"/>
 </div>
 
 <div align="center">
