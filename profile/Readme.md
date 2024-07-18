@@ -14,7 +14,6 @@
   <a href="https://github.com/Clinical-Biomechanics-Research-Unit">
     <img src="https://img.shields.io/github/forks/Clinical-Biomechanics-Research-Unit" alt="GitHub forks"/>
   </a>
-  <img src="https://img.shields.io/github/stars/Clinical-Biomechanics-Research-Unit" alt="User GitHub stars"/>
 </div>
 
 Welcome to the Clinical Biomechanic Research Unit GitHub organization! We are passionate about [briefly describe your organization's mission or focus].
