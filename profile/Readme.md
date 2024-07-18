@@ -3,13 +3,7 @@
   <img src="profile/media/TWITTER_PROFILE_ICON-removebg-preview.png" width="100" alt="Profile Icon"/>
 </div>
 
-<div id="badges" align="center">
-  <a href="https://twitter.com/CBRUottawa">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  <br />
-  <img src="https://komarev.com/ghpvc/?username=Clinical-Biomechanics-Research-Unit&style=flat-square&color=blue" alt="Profile Views"/>
-</div>
+![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2FCBRUottawa)
 
 <div align="center">
   <a href="https://github.com/Clinical-Biomechanics-Research-Unit">
@@ -24,7 +18,7 @@ Welcome to the Clinical Biomechanic Research Unit GitHub organization! We are pa
 
 ## About Us
 
-- **Mission**: [Briefly describe your mission]
+- **Mission**: 
 - **Website**: [cbru.ca](http://cbru.ca)
 - **Contact**: Professor Daniel Benoit and Professor Allison Clouthier
 
