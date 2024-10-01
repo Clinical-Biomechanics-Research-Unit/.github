@@ -28,16 +28,10 @@ Welcome to the Clinical Biomechanic Research Unit GitHub organization! We are pa
 
 Here are some of the exciting projects we are working on:
 
-### [Project 1 Name]
-
-- **Description**: [Brief description of the project]
-- **GitHub Repository**: [Link to the GitHub repository]
-- **Demo**: [Link to demo or further details]
-
 ## Join Us
 
 If you share our passion and want to collaborate with us, feel free to [join our organization](https://github.com/your-org-name). We're always looking for talented individuals to help us achieve our mission.
 
 ---
 
-**Clinical Biomechanic Research Unit** &copy; 2023 - All rights reserved.
+**Clinical Biomechanic Research Unit** &copy; 2024 - All rights reserved.
